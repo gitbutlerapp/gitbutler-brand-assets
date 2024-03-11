@@ -7,7 +7,7 @@ A hub for GitButler's essential brand elements – logos, stickers, visuals, and
 ## Links
 
 - [Our Figma page](https://www.figma.com/@gitbutler)
-- [Client Design](https://www.figma.com/file/FbeLt0yjY9RiNn8MXUXsYs/Client-Design?type=design&node-id=0%3A1&mode=design&t=p4tpC3IEG0xe9wd8-1)
+- [Client Design](https://www.figma.com/file/FbeLt0yjY9RiNn8MXUXsYs/Client-Design?type=design&node-id=0%3A1&mode=design&t=MUDQhR3iOM3DpI9m-1)
 
 ## Folders
 
